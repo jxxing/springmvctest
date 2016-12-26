@@ -1,0 +1,6 @@
+.*
+!.gitignore
+WebRoot/WEB-INF/classes
+.settings
+/target/
+*.class
